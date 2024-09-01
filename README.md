@@ -5,8 +5,8 @@ I am an 18 year old freshman Computer Science student.
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=rust,python,c,cpp)](https://skillicons.dev)
 
-## Interests
-At the moment I am mostly interested in 3D/Graphics programming.
+## Learning
+Right now I am trying to become as knowledgable as I can about Rust before I venture into another topic. 
 
 <!--
 **flummi1/flummi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
