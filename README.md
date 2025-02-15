@@ -1,4 +1,4 @@
-# flummi1
+# flummiy
 My name is Kaden. 
 I am an 18 year old freshman Computer Science student.
 
